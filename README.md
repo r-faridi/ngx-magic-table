@@ -245,7 +245,7 @@ Use `<ngx-magic-table>`
 
 
 
-```
+``` 
 
 ## Next up
 
